@@ -1,4 +1,4 @@
-## Invoice Extractor 
+## image Extractor 
 from dotenv import load_dotenv
 
 load_dotenv()  # Load all environment variables from .env 
